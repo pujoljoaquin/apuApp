@@ -1,0 +1,4 @@
+services:
+#    acme_viajes.example:
+#        class: Acme\ViajesBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
